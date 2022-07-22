@@ -1,0 +1,10 @@
+.carousel-item img{
+  height:100vh;
+  /* vh viexport height 높이를 꽉채워라*/
+  /* vw viexport width */
+}
+
+nav {
+  z-index: 1;
+  /* width: 100%; */
+}
